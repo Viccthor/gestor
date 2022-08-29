@@ -10,7 +10,7 @@ GIT
       mime-types
 
 GIT
-  remote: https://github.com/ryanb/nested_form.git
+  remote: https://github.com/Viccthor/gestor
   revision: 486e0f0e93f3ca455d5d0fc7869053257b6afce2
   specs:
     nested_form (0.2.0)

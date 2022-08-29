@@ -14,7 +14,7 @@ gem 'mysql2', '~> 0.2.6'
 # gem 'capistrano'
 
 gem 'thin'
-gem "nested_form", :git => 'https://github.com/ryanb/nested_form.git'
+gem "nested_form", :git => 'https://github.com/Viccthor/gestor.git'
 gem 'rack-pjax'
 gem "paperclip", :git => "git://github.com/thoughtbot/paperclip.git"
 gem 'simple_form'
